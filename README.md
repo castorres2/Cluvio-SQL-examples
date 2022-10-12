@@ -2,7 +2,7 @@
 Cluvio SQL examples of meal plan business
 
 
-These are just screenshots of fully interactive charts within Cluvio uses SQL these syntaxes to perform cohort anyalses:
+These are just screenshots of fully interactive charts within Cluvio using these SQL syntaxes to perform cohort anyalses:
 
 
 
